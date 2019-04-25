@@ -225,7 +225,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\lib.cpp" />
+    <ClCompile Include="..\lib0.cpp" />
+    <ClCompile Include="..\lib1.cpp" />
+    <ClCompile Include="..\lib2.cpp" />
+    <ClCompile Include="..\lib3.cpp" />
+    <ClCompile Include="..\lib4.cpp" />
+    <ClCompile Include="..\lib5.cpp" />
+    <ClCompile Include="..\lib6.cpp" />
+    <ClCompile Include="..\lib7.cpp" />
+    <ClCompile Include="..\lib8.cpp" />
+    <ClCompile Include="..\lib9.cpp" />
     <ClCompile Include="..\util.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
